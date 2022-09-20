@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main Menu.unity
+    guid: c91ea9a79e7930c49ad98f22d9faedbf
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: 5400483b3ecc54148820d06cbeb868ed
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 54b67728a5b496b4994e03da1c6451a9
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: ed21ade9987b2c74293e1f5c9c106a80
+  - enabled: 1
+    path: Assets/Scenes/DifficultyScene.unity
+    guid: 6574286d013dc42488c77676f730b235
+  - enabled: 1
+    path: Assets/MainMenu/Scenes/KrustyKrab.unity
+    guid: 19778c490f086084583717a5e7c3b08c
+  - enabled: 1
+    path: Assets/Scenes/EasyLevel.unity
+    guid: 7a0e6be6a3790e44385a1b236dc7fe2c
+  m_configObjects: {}
